@@ -1,0 +1,20 @@
+[
+    {
+      "S.No": 1,
+      "Name": "Ramesh Kumar",
+      "Father's Name": "Mahesh Kumar",
+      "Admission No": "1001",
+      "TC No.": "1",
+      "Class": "10",
+      "Session": "2023-2024"
+    },
+    {
+      "S.No": 2,
+      "Name": "Suresh Verma",
+      "Father's Name": "Dinesh Verma",
+      "Admission No": "1002",
+      "TC No.": "2",
+      "Class": "9",
+      "Session": "2022-2023"
+    }
+]  
