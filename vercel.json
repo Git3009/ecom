@@ -1,0 +1,10 @@
+{
+    "rewrites": [
+      { "source": "/:path", "destination": "/:path.html" },
+      { "source": "/school/:path", "destination": "/school/:path.html" },
+      { "source": "/admission/:path", "destination": "/admission/:path.html" },
+      { "source": "/academics/:path", "destination": "/academics/:path.html" },
+      { "source": "/news/:path", "destination": "/news/:path.html" },
+      { "source": "/:path*", "destination": "/404.html" }
+    ]
+}
